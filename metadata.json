@@ -1,0 +1,6 @@
+{
+  "name": "WhatsApp Group Link Checker",
+  "description": "Scan, verify, and validate WhatsApp group invite links in bulk or single inspector mode. Detect active groups, revoked invites, extract group titles, avatars, and export reports in TXT, CSV, and JSON.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
